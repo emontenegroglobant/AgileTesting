@@ -1,4 +1,4 @@
-EXERCISE - Verify is a number is prime.
+**EXERCISE - Verify is a number is prime.**
 
 1. Create a local folder
 2. Clone this project in that local folder
