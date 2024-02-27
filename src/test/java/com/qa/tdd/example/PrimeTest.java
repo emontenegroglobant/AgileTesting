@@ -16,7 +16,7 @@ public class PrimeTest {
     public void verify_number_one() {
         PrimeExercise primeExercise = new PrimeExercise();
         boolean isPrime = primeExercise.isPrime(1);
-        assertTrue(isPrime);
+        assertFalse(isPrime);
     }
 
     @Test

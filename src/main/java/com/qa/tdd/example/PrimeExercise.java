@@ -8,7 +8,7 @@ public class PrimeExercise {
 
     public boolean isPrime(int number) {
 
-        if (number < 0) {
+        if (number <= 1) {
             System.out.println("The number: " + number + " is not prime, it's a negative number");
             return false;
         } else {
